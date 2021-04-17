@@ -1,3 +1,3 @@
 # C-Programming-Project
 
-Pizza order system
+Simulates pizza order system
